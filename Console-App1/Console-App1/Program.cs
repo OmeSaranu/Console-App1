@@ -7,6 +7,8 @@ namespace Console_App1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Made some changes in Github");
+            
         }
     }
 }
