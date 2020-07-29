@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Console_App1
 {
-    class Featurec
+    class FeatureC
     {
         public static int Mul(int x1, int x2)
         {
